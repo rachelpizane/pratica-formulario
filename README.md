@@ -4,10 +4,10 @@ Este projeto é um formulário com diversos tipos de input feito durante o curso
 
 A ideia foi praticar o uso do **react-hook-form** e entender melhor como aplicar validações usando **Zod** no dia a dia.
 
-⚠️ Observação
+## ⚠️ Observação
 Para que a aplicação funcione corretamente, é necessário rodar um [backend fake](https://github.com/codegenixdev/backend-react-hook-form-mui-zod) em conjunto.
 
-🚀 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 - React
 - React Hook Form
 - Zod
